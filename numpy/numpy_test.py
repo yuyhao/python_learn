@@ -10,5 +10,9 @@ n.size
 n.itemsize
 
 # 获取某个函数的帮助文档
+help(np.mean)
 np.info(np.mean)
 help(np.mean)
+
+
+
